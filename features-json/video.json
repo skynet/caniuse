@@ -2,7 +2,7 @@
   "title":"Video element",
   "description":"Method of playing videos on webpages (without requiring a plug-in).",
   "spec":"https://html.spec.whatwg.org/multipage/embedded-content.html#the-video-element",
-  "status":"rec",
+  "status":"ls",
   "links":[
     {
       "url":"https://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
@@ -43,7 +43,8 @@
       "8":"n",
       "9":"y",
       "10":"y",
-      "11":"y"
+      "11":"y",
+      "TP":"y"
     },
     "firefox":{
       "2":"n",
@@ -82,7 +83,9 @@
       "33":"y",
       "34":"y",
       "35":"y",
-      "36":"y"
+      "36":"y",
+      "37":"y",
+      "38":"y"
     },
     "chrome":{
       "4":"y",
@@ -220,7 +223,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":90.57,
+  "usage_perc_y":89.62,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

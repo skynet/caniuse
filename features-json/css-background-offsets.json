@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari 8 [has a bug](https://discussions.apple.com/thread/6679022) with bottom-positioned values `background-attachment: fixed;`"
+    }
   ],
   "categories":[
     "CSS3"
@@ -27,7 +29,8 @@
       "8":"n",
       "9":"y",
       "10":"y",
-      "11":"y"
+      "11":"y",
+      "TP":"y"
     },
     "firefox":{
       "2":"n",
@@ -66,7 +69,9 @@
       "33":"y",
       "34":"y",
       "35":"y",
-      "36":"y"
+      "36":"y",
+      "37":"y",
+      "38":"y"
     },
     "chrome":{
       "4":"n",
@@ -204,7 +209,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":83.96,
+  "usage_perc_y":83.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -27,7 +27,8 @@
       "8":"y",
       "9":"y",
       "10":"y",
-      "11":"y"
+      "11":"y",
+      "TP":"y"
     },
     "firefox":{
       "2":"n",
@@ -66,7 +67,9 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"n"
+      "36":"n",
+      "37":"n",
+      "38":"n"
     },
     "chrome":{
       "4":"n",
@@ -204,7 +207,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":14.95,
+  "usage_perc_y":16.45,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",
